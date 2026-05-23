@@ -39,6 +39,7 @@ Currently building practical labs, security tooling, Linux references, and penet
 - Network Enumeration
 - Authentication Testing
 - Linux Privilege Escalation
+- SQL Injection Testing
 - Burp Suite Workflow
 
 ## 🔵 Defensive Security
@@ -60,6 +61,7 @@ Currently building practical labs, security tooling, Linux references, and penet
 | Labs | DVWA, OWASP Juice Shop, Metasploitable |
 | SIEM | Wazuh, Splunk |
 | Scripting | Python, Bash, PowerShell |
+| Databases | MySQL, SQL Basics |
 
 ---
 
@@ -83,22 +85,41 @@ https://github.com/SpectralApex/linux-command-cheatsheet
 
 ## 🛡 Python Cybersecurity Toolkit
 
-Cybersecurity toolkit focused on automation and offensive security workflows.
+Professional reconnaissance and offensive security automation toolkit.
 
-### Planned Features
+### Features
 
-- Multi-threaded port scanning
+- Multi-threaded scanning
 - Banner grabbing
 - Service fingerprinting
-- Packet sniffing
-- Recon automation
-- Logging & reporting
-- JSON/CSV exports
+- Structured logging
+- JSON reporting
+- Retry handling
+- Timeout management
 - DNS enumeration
 - HTTP fingerprinting
 
 🔗 Repository:
 https://github.com/SpectralApex/python-cybersecurity-toolkit
+
+---
+
+## 🗄 SQL for Cybersecurity
+
+Practical SQL and SQL Injection learning repository focused on web application security.
+
+### Includes
+
+- SQL fundamentals
+- Authentication query logic
+- SQL Injection basics
+- Authentication bypass
+- Payload analysis
+- Mitigation techniques
+- Secure query examples
+
+🔗 Repository:
+https://github.com/SpectralApex/sql-for-cybersecurity
 
 ---
 
@@ -152,6 +173,7 @@ https://github.com/SpectralApex/penetration-testing-reports
 ```text
 Web Application Pentesting
 Bug Bounty Methodology
+SQL Injection
 Linux for Cybersecurity
 Burp Suite Mastery
 Python Automation

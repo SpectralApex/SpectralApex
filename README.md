@@ -1,23 +1,24 @@
 # SpectralApex 👨‍💻
 
-## Cybersecurity • Python Automation • Security Engineering
+## Cybersecurity • Ethical Hacking • Automation Engineering
 
-Aspiring cybersecurity professional focused on offensive security, defensive security, automation engineering, and security tooling development.
+Aspiring cybersecurity professional focused on offensive security, Linux, bug bounty methodology, automation engineering, and security tooling development.
 
 ---
 
-# About Me
+# 🚀 About Me
 
-- Building practical cybersecurity projects
+- Building practical cybersecurity & Linux projects
 - Learning penetration testing & bug bounty workflows
 - Developing Python-based security tools
-- Exploring SIEM & detection engineering
 - Practicing Linux administration & automation
+- Studying SIEM & detection engineering
 - Documenting security assessments professionally
+- Improving web application security testing skills
 
 ---
 
-# Technical Skills
+# 🛠 Technical Skills
 
 ## Cybersecurity
 
@@ -25,6 +26,7 @@ Aspiring cybersecurity professional focused on offensive security, defensive sec
 - Vulnerability Assessment
 - Network Enumeration
 - Reconnaissance
+- Linux Administration
 - SIEM Monitoring
 - Threat Detection
 - Security Reporting
@@ -36,11 +38,12 @@ Aspiring cybersecurity professional focused on offensive security, defensive sec
 - Burp Suite
 - Nmap
 - Wireshark
+- Metasploit
 - Wazuh
 - Splunk
-- Metasploit
 - DVWA
 - OWASP Juice Shop
+- Metasploitable
 
 ## Programming & Scripting
 
@@ -51,9 +54,24 @@ Aspiring cybersecurity professional focused on offensive security, defensive sec
 
 ---
 
-# Featured Repositories
+# 📌 Featured Repositories
 
-## Python Cybersecurity Toolkit
+## 🐧 Linux Command Cheatsheet
+
+Practical Linux command reference for:
+- Cybersecurity
+- Ethical Hacking
+- Linux Administration
+- Networking
+- Bash Scripting
+- Pentesting Workflows
+
+Repository:
+https://github.com/SpectralApex/linux-command-cheatsheet
+
+---
+
+## 🛡 Python Cybersecurity Toolkit
 
 Modular cybersecurity toolkit featuring:
 - Port Scanner
@@ -69,7 +87,7 @@ https://github.com/SpectralApex/python-cybersecurity-toolkit
 
 ---
 
-## SIEM Monitoring Lab
+## 🔵 SIEM Monitoring Lab
 
 Blue-team security monitoring project including:
 - Brute Force Detection
@@ -83,7 +101,7 @@ https://github.com/SpectralApex/siem-monitoring-lab
 
 ---
 
-## Penetration Testing Reports
+## 📄 Penetration Testing Reports
 
 Professional-style penetration testing documentation:
 - DVWA Assessments
@@ -97,18 +115,18 @@ https://github.com/SpectralApex/penetration-testing-reports
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 - Web Application Pentesting
 - Bug Bounty Methodology
+- Linux for Cybersecurity
 - Detection Engineering
 - Python Automation
-- SIEM Operations
 - Security Research
 
 ---
 
-# Labs & Training Platforms
+# 🧪 Labs & Training Platforms
 
 - PortSwigger Web Security Academy
 - DVWA
@@ -118,7 +136,7 @@ https://github.com/SpectralApex/penetration-testing-reports
 
 ---
 
-# Goals
+# 📈 Goals
 
 - Build advanced cybersecurity tooling
 - Improve offensive security skills
@@ -128,9 +146,8 @@ https://github.com/SpectralApex/penetration-testing-reports
 
 ---
 
-# GitHub Profile
+# 🌐 GitHub
 
-GitHub:
 https://github.com/SpectralApex
 
 ---

@@ -1,132 +1,143 @@
-# SpectralApex 👨‍💻
+# 👾 SpectralApex
 
-## Cybersecurity • Ethical Hacking • Automation Engineering
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Ethical+Hacking+%7C+Linux;Bug+Bounty+%7C+Automation+Engineering;Building+Security+Tools+and+Labs" alt="Typing SVG" />
+</p>
 
-Aspiring cybersecurity professional focused on offensive security, Linux, bug bounty methodology, automation engineering, and security tooling development.
-
----
-
-# 🚀 About Me
-
-- Building practical cybersecurity & Linux projects
-- Learning penetration testing & bug bounty workflows
-- Developing Python-based security tools
-- Practicing Linux administration & automation
-- Studying SIEM & detection engineering
-- Documenting security assessments professionally
-- Improving web application security testing skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-232F3E?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Bug%20Bounty-121011?style=for-the-badge&logo=bugatti&logoColor=red" />
+</p>
 
 ---
 
-# 🛠 Technical Skills
+# 🛡 About Me
 
-## Cybersecurity
+Aspiring cybersecurity professional focused on:
+
+- Offensive Security
+- Web Application Pentesting
+- Linux & Automation
+- SIEM & Detection Engineering
+- Python Security Tooling
+- Bug Bounty Methodology
+- Security Research & Documentation
+
+Currently building practical labs, security tooling, Linux references, and penetration testing workflows.
+
+---
+
+# ⚙️ Technical Stack
+
+## 🔴 Offensive Security
 
 - Web Application Security
 - Vulnerability Assessment
-- Network Enumeration
 - Reconnaissance
-- Linux Administration
+- Network Enumeration
+- Authentication Testing
+- Linux Privilege Escalation
+- Burp Suite Workflow
+
+## 🔵 Defensive Security
+
 - SIEM Monitoring
-- Threat Detection
-- Security Reporting
 - Log Analysis
+- Threat Detection
+- Detection Engineering
+- Security Reporting
+- Incident Analysis
 
-## Tools & Platforms
+## 🧰 Tools & Platforms
 
-- Kali Linux
-- Burp Suite
-- Nmap
-- Wireshark
-- Metasploit
-- Wazuh
-- Splunk
-- DVWA
-- OWASP Juice Shop
-- Metasploitable
-
-## Programming & Scripting
-
-- Python
-- Bash
-- PowerShell
-- SQL
+| Category | Tools |
+|---|---|
+| Operating Systems | Kali Linux, Windows 11 |
+| Pentesting | Burp Suite, Nmap, Metasploit |
+| Networking | Wireshark, tcpdump |
+| Labs | DVWA, OWASP Juice Shop, Metasploitable |
+| SIEM | Wazuh, Splunk |
+| Scripting | Python, Bash, PowerShell |
 
 ---
 
-# 📌 Featured Repositories
+# 🚀 Featured Projects
 
 ## 🐧 Linux Command Cheatsheet
 
-Practical Linux command reference for:
-- Cybersecurity
-- Ethical Hacking
-- Linux Administration
-- Networking
-- Bash Scripting
-- Pentesting Workflows
+Practical Linux reference covering:
 
-Repository:
+- Linux administration
+- Networking
+- Bash scripting
+- Cybersecurity workflows
+- Pentesting utilities
+- Linux permissions
+
+🔗 Repository:
 https://github.com/SpectralApex/linux-command-cheatsheet
 
 ---
 
 ## 🛡 Python Cybersecurity Toolkit
 
-Modular cybersecurity toolkit featuring:
-- Port Scanner
-- Packet Sniffer
-- DNS Recon
-- Subdomain Enumerator
-- Log Analyzer
-- Network Monitor
-- Web Vulnerability Scanner
+Cybersecurity toolkit focused on automation and offensive security workflows.
 
-Repository:
+### Planned Features
+
+- Multi-threaded port scanning
+- Banner grabbing
+- Service fingerprinting
+- Packet sniffing
+- Recon automation
+- Logging & reporting
+- JSON/CSV exports
+- DNS enumeration
+- HTTP fingerprinting
+
+🔗 Repository:
 https://github.com/SpectralApex/python-cybersecurity-toolkit
 
 ---
 
 ## 🔵 SIEM Monitoring Lab
 
-Blue-team security monitoring project including:
-- Brute Force Detection
-- PowerShell Abuse Detection
-- MITRE ATT&CK Mapping
-- SIEM Rule Engineering
-- Incident Response Concepts
+Blue-team detection engineering and monitoring lab.
 
-Repository:
+### Focus Areas
+
+- Brute-force detection
+- PowerShell abuse detection
+- MITRE ATT&CK mapping
+- Alert analysis
+- Security event correlation
+- Detection logic
+
+🔗 Repository:
 https://github.com/SpectralApex/siem-monitoring-lab
 
 ---
 
 ## 📄 Penetration Testing Reports
 
-Professional-style penetration testing documentation:
-- DVWA Assessments
-- PortSwigger Labs
-- Vulnerability Reports
-- Remediation Guidance
-- Exploitation Workflows
+Professional-style pentest documentation and lab writeups.
 
-Repository:
+### Includes
+
+- Vulnerability analysis
+- Attack workflows
+- Exploitation methodology
+- Remediation guidance
+- Security reporting structure
+
+🔗 Repository:
 https://github.com/SpectralApex/penetration-testing-reports
 
 ---
 
-# 🎯 Current Focus
-
-- Web Application Pentesting
-- Bug Bounty Methodology
-- Linux for Cybersecurity
-- Detection Engineering
-- Python Automation
-- Security Research
-
----
-
-# 🧪 Labs & Training Platforms
+# 🧪 Current Training Platforms
 
 - PortSwigger Web Security Academy
 - DVWA
@@ -136,20 +147,49 @@ https://github.com/SpectralApex/penetration-testing-reports
 
 ---
 
-# 📈 Goals
+# 🎯 Current Focus
+
+```text
+Web Application Pentesting
+Bug Bounty Methodology
+Linux for Cybersecurity
+Burp Suite Mastery
+Python Automation
+Security Tool Development
+```
+
+---
+
+# 📈 2026 Goals
 
 - Build advanced cybersecurity tooling
-- Improve offensive security skills
-- Develop blue-team detection capabilities
-- Publish professional security reports
+- Develop AI-assisted recon workflows
+- Improve offensive security methodology
+- Publish professional security writeups
+- Create deeper Linux & security documentation
 - Contribute to security-focused open-source projects
 
 ---
 
-# 🌐 GitHub
+# 🌐 GitHub Statistics
 
-https://github.com/SpectralApex
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SpectralApex&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpectralApex&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⚡ Continuously building practical cybersecurity projects and improving offensive & defensive security engineering skills.
+# 🤖 Future Projects
+
+- AI-Powered Recon Assistant
+- Automated Bug Bounty Workflow Framework
+- Security Detection Pipelines
+- Recon Automation Platform
+- AI Agent-Based Security Assistant
+
+---
+
+<p align="center">
+⚡ Building practical cybersecurity projects and continuously improving offensive & defensive security engineering skills.
+</p>

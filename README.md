@@ -1,7 +1,7 @@
 # 👾 SpectralApex
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Ethical+Hacking+%7C+Linux;Bug+Bounty+%7C+Automation+Engineering;Building+Security+Tools+and+Labs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Ethical+Hacking+%7C+Linux+%7C+SQL;Bug+Bounty+%7C+Automation+Engineering;Building+Security+Tools+and+Labs" alt="Typing SVG" />
 </p>
 
 <p align="center">

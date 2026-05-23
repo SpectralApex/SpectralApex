@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/Bug%20Bounty-121011?style=for-the-badge&logo=bugatti&logoColor=red" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SpectralApex&label=Profile%20Views&color=00ffaa&style=for-the-badge" />
+</p>
+
 ---
 
 # 🛡 About Me
@@ -26,6 +30,37 @@ Aspiring cybersecurity professional focused on:
 - Security Research & Documentation
 
 Currently building practical labs, security tooling, Linux references, and penetration testing workflows.
+
+---
+
+# 💻 Terminal Status
+
+```bash
+root@SpectralApex:~# whoami
+cybersecurity-student
+
+root@SpectralApex:~# current_focus
+web-pentesting
+bug-bounty
+linux
+python-automation
+
+automation-engineering
+
+root@SpectralApex:~# status
+building-security-tools...
+```
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Burp Suite workflows
+- SQL Injection & Authentication flaws
+- Linux Privilege Escalation
+- Detection Engineering
+- AI-assisted Security Workflows
+- Python Security Automation
 
 ---
 
@@ -63,9 +98,31 @@ Currently building practical labs, security tooling, Linux references, and penet
 
 ---
 
+# 📊 Skill Matrix
+
+| Skill | Level |
+|---|---|
+| Linux | Intermediate |
+| Burp Suite | Intermediate |
+| Python | Intermediate |
+| Networking | Intermediate |
+| Web Pentesting | Learning |
+| SIEM | Beginner-Intermediate |
+| Bash Scripting | Intermediate |
+| Vulnerability Assessment | Intermediate |
+
+---
+
 # 🚀 Featured Projects
 
 ## 🐧 Linux Command Cheatsheet
+
+```text
+┌─────────────────────────────────────┐
+│ Linux • Networking • Pentesting    │
+│ Bash • Permissions • Cybersecurity │
+└─────────────────────────────────────┘
+```
 
 Practical Linux reference covering:
 
@@ -82,6 +139,13 @@ https://github.com/SpectralApex/linux-command-cheatsheet
 ---
 
 ## 🛡 Python Cybersecurity Toolkit
+
+```text
+┌─────────────────────────────────────┐
+│ Recon • Scanning • Automation       │
+│ Logging • Fingerprinting • Reports  │
+└─────────────────────────────────────┘
+```
 
 Cybersecurity toolkit focused on automation and offensive security workflows.
 
@@ -104,6 +168,13 @@ https://github.com/SpectralApex/python-cybersecurity-toolkit
 
 ## 🔵 SIEM Monitoring Lab
 
+```text
+┌─────────────────────────────────────┐
+│ Detection • Correlation • Monitoring│
+│ Threat Analysis • Alert Engineering │
+└─────────────────────────────────────┘
+```
+
 Blue-team detection engineering and monitoring lab.
 
 ### Focus Areas
@@ -122,6 +193,13 @@ https://github.com/SpectralApex/siem-monitoring-lab
 
 ## 📄 Penetration Testing Reports
 
+```text
+┌─────────────────────────────────────┐
+│ Exploitation • Reporting • Analysis │
+│ Findings • Remediation • Workflows  │
+└─────────────────────────────────────┘
+```
+
 Professional-style pentest documentation and lab writeups.
 
 ### Includes
@@ -137,6 +215,22 @@ https://github.com/SpectralApex/penetration-testing-reports
 
 ---
 
+# 🧠 Security Workflow Architecture
+
+```text
+[ Target ]
+     ↓
+[ Recon & Enumeration ]
+     ↓
+[ Vulnerability Analysis ]
+     ↓
+[ Exploitation & Validation ]
+     ↓
+[ Reporting & Documentation ]
+```
+
+---
+
 # 🧪 Current Training Platforms
 
 - PortSwigger Web Security Academy
@@ -147,27 +241,11 @@ https://github.com/SpectralApex/penetration-testing-reports
 
 ---
 
-# 🎯 Current Focus
+# 📈 GitHub Activity
 
-```text
-Web Application Pentesting
-Bug Bounty Methodology
-Linux for Cybersecurity
-Burp Suite Mastery
-Python Automation
-Security Tool Development
-```
-
----
-
-# 📈 2026 Goals
-
-- Build advanced cybersecurity tooling
-- Develop AI-assisted recon workflows
-- Improve offensive security methodology
-- Publish professional security writeups
-- Create deeper Linux & security documentation
-- Contribute to security-focused open-source projects
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpectralApex&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
@@ -191,5 +269,9 @@ Security Tool Development
 ---
 
 <p align="center">
-⚡ Building practical cybersecurity projects and continuously improving offensive & defensive security engineering skills.
+  <i>"Building practical cybersecurity tooling and offensive security workflows."</i>
+</p>
+
+<p align="center">
+⚡ Continuously improving offensive & defensive security engineering skills.
 </p>

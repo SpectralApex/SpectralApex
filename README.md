@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackaday&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-232F3E?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bug%20Bounty-121011?style=for-the-badge&logo=bugatti&logoColor=red" />
 </p>
 
@@ -25,7 +26,7 @@ Aspiring cybersecurity professional focused on:
 - Bug Bounty Methodology
 - Security Research & Documentation
 
-Currently building practical labs, security tooling, Linux references, and penetration testing workflows.
+Currently building practical labs, security tooling, Linux references, database fundamentals, and penetration testing workflows.
 
 ---
 
@@ -62,6 +63,23 @@ Currently building practical labs, security tooling, Linux references, and penet
 | SIEM | Wazuh, Splunk |
 | Scripting | Python, Bash, PowerShell |
 | Databases | MySQL, SQL Basics |
+
+---
+
+# 🗄 Database & SQL Learning
+
+Currently learning SQL through W3Schools and practicing database fundamentals for backend systems and web security testing.
+
+## Topics Practiced
+
+- SELECT statements
+- WHERE conditions
+- ORDER BY
+- GROUP BY
+- INSERT / UPDATE / DELETE
+- JOIN operations
+- Authentication query logic
+- SQL Injection fundamentals
 
 ---
 
@@ -161,6 +179,7 @@ https://github.com/SpectralApex/penetration-testing-reports
 # 🧪 Current Training Platforms
 
 - PortSwigger Web Security Academy
+- W3Schools SQL Training
 - DVWA
 - Metasploitable
 - OWASP Juice Shop
